@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6a8330187d28614eb5dbfbee22887ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123172
+  packageName: A Lighthouse
+  packageVersion: 2.0
+  assetPath: Assets/Markin/A lighthouse/URP/Material/M_Glass.mat
+  uploadId: 798044

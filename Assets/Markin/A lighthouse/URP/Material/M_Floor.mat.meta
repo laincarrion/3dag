@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef2625162f09d17498085d43da38c2f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123172
+  packageName: A Lighthouse
+  packageVersion: 2.0
+  assetPath: Assets/Markin/A lighthouse/URP/Material/M_Floor.mat
+  uploadId: 798044

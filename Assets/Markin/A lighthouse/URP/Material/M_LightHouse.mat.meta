@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 14f46fc686245774b890a8fd9f1c406e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123172
+  packageName: A Lighthouse
+  packageVersion: 2.0
+  assetPath: Assets/Markin/A lighthouse/URP/Material/M_LightHouse.mat
+  uploadId: 798044

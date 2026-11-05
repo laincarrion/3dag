@@ -13,7 +13,6 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords:
-  - _BOTTOM_DISTORT
   - _CAUSTICS_ON
   - _CRESTGLOW_ON
   - _FOAM_ON
@@ -146,9 +145,9 @@ Material:
     - _C_Direction: {r: 0.7, g: 0, b: 0, a: 0}
     - _CrestGlowColor: {r: 1, g: 1, b: 1, a: 1}
     - _D_Direction: {r: -0.5, g: 0, b: 0, a: 0}
-    - _DeepWaterColor: {r: 0.0117647005, g: 0.15597038, b: 0.21960784, a: 1}
+    - _DeepWaterColor: {r: 0.11478107, g: 0.12229034, b: 0.17735851, a: 1}
     - _PlaneNormalWS: {r: 0, g: 1, b: 0, a: 0}
     - _PlanePosWS: {r: 0, g: 0, b: 0, a: 0}
-    - _WaterColor: {r: 0.011764702, g: 0.39607844, b: 0.33041734, a: 1}
+    - _WaterColor: {r: 0.18095405, g: 0.24528301, b: 0.23241723, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
