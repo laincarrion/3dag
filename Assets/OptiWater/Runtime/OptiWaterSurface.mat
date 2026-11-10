@@ -145,9 +145,9 @@ Material:
     - _C_Direction: {r: 0.7, g: 0, b: 0, a: 0}
     - _CrestGlowColor: {r: 1, g: 1, b: 1, a: 1}
     - _D_Direction: {r: -0.5, g: 0, b: 0, a: 0}
-    - _DeepWaterColor: {r: 0.18273398, g: 0.18772241, b: 0.22264141, a: 1}
+    - _DeepWaterColor: {r: 0.11478107, g: 0.12229034, b: 0.17735851, a: 1}
     - _PlaneNormalWS: {r: 0, g: 1, b: 0, a: 0}
     - _PlanePosWS: {r: 0, g: 0, b: 0, a: 0}
-    - _WaterColor: {r: 0.1768387, g: 0.19245279, b: 0.18877888, a: 0.83137256}
+    - _WaterColor: {r: 0.18095405, g: 0.24528301, b: 0.23241723, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
