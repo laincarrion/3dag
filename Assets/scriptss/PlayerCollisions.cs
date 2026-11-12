@@ -2,6 +2,10 @@ using UnityEngine;
 
 public class PlayerCollisions : MonoBehaviour
 {
+
+    [SerializeField] private AudioClip  pickupCollectSound;
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -23,6 +27,20 @@ public class PlayerCollisions : MonoBehaviour
             print("Player hit a door!");
             // Handle collision with door
         }
+    }
+
+    void OnTriggerEnter(Collider coll)
+    {
+        if (coll.gameObject.CompareTag("Pickup")
+        {
+         pickupCollectSound.pickupAmount++;
+
+         audio.PlayOneShot(pickupCollectSound);
+
+            Destroy(coll.GameObject);
+        }
+
+      
     }
 
 }
